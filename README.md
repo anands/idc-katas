@@ -1,3 +1,5 @@
+**This is a archived repo, for open source getting started use https://github.com/open-source-workshop/awesome-random**
+
 # IDC Katas Code Challenges
 
 The point of this repository is to allow anyone to start contributing on a
